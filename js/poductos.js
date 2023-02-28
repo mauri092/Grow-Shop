@@ -1,0 +1,51 @@
+const productos = [
+    {
+        id: "iluminacion-01",
+        nombre: "panel 01",
+        precio: 3000,
+        img: "../imagen/iluminacion/iluminacion1.jfif",
+        cantidad: 1,
+    },
+    {
+        id: "iluminacion-01",
+        nombre: "panel 01",
+        precio: 3000,
+        img: "../imagen/iluminacion/iluminacion1.jfif",
+        cantidad: 1,
+    },
+    {
+        id: "iluminacion-02",
+        nombre: "panel 02",
+        precio: 3000,
+        img: "../imagen/iluminacion/iluminacion2.jfif",
+        cantidad: 1,
+    },
+    {
+        id: "iluminacion-03",
+        nombre: "panel 03",
+        precio: 3000,
+        img: "../imagen/iluminacion/iluminacion3.jfif",
+        cantidad: 1,
+    },
+    {
+        id: "iluminacion-04",
+        nombre: "panel 04",
+        precio: 3000,
+        img: "../imagen/iluminacion/iluminacion4.jfif",
+        cantidad: 1,
+    },
+    {
+        id: "iluminacion-05",
+        nombre: "panel 05",
+        precio: 3000,
+        img: "../imagen/iluminacion/iluminacion5.jfif",
+        cantidad: 1,
+    },
+    {
+        id: "iluminacion-06",
+        nombre: "panel 06",
+        precio: 3000,
+        img: "../imagen/iluminacion/iluminacion6.jfif",
+        cantidad: 1,
+    },
+    ];

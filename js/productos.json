@@ -1,0 +1,82 @@
+[
+    {
+        "id": "accesorio-01",
+        "titulo": "accesorio-01",
+        "imagen": "./imagen/accesorios/balanza1.png",
+        "categoria": {
+            "nombre": "accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "accesorio-01",
+        "titulo": "accesorio-01",
+        "imagen": "./imagen/accesorios/balanza1.png",
+        "categoria": {
+            "nombre": "accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "accesorio-01",
+        "titulo": "accesorio-01",
+        "imagen": "./imagen/accesorios/balanza1.png",
+        "categoria": {
+            "nombre": "accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "accesorio-01",
+        "titulo": "accesorio-01",
+        "imagen": "./imagen/accesorios/balanza1.png",
+        "categoria": {
+            "nombre": "accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "accesorio-01",
+        "titulo": "accesorio-01",
+        "imagen": "./imagen/accesorios/balanza1.png",
+        "categoria": {
+            "nombre": "accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "accesorio-01",
+        "titulo": "accesorio-01",
+        "imagen": "./imagen/accesorios/balanza1.png",
+        "categoria": {
+            "nombre": "accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "accesorio-01",
+        "titulo": "accesorio-01",
+        "imagen": "./imagen/accesorios/balanza1.png",
+        "categoria": {
+            "nombre": "accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "accesorio-01",
+        "titulo": "accesorio-01",
+        "imagen": "./imagen/accesorios/balanza1.png",
+        "categoria": {
+            "nombre": "accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1500
+    }
+]
